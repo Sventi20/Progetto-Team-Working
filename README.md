@@ -1,4 +1,4 @@
-https://classy-tulumba-8c5846.netlify.app/
+[https://classy-tulumba-8c5846.netlify.app/](https://extraordinary-puppy-b84767.netlify.app/)
 
 da fare: fai che se hoveri le preview nella homepage ti lascia scrollage giù, resize delle sezioni preview film homepage più grande, sistema i codici amici (allunga anche il codice in se per essere più precisi), delete account button che apre una schermata nuova, sistema immagini sul telefono on centrate, sistema loading details film, velocità carousel costante per tutti, se sei già premium plan non ti chiede più l'abbonamento, se hai un qualsiasi abbonamento a pagamento non ti chiede se vuoi tornare al piano free, togli il pulsante tv shows, togli film dall'api poco famosi, 
 
